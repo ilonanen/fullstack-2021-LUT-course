@@ -1,0 +1,18 @@
+{
+  "name": "coursework",
+  "version": "1.0.0",
+  "description": "Coursework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ilona Engblom",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
